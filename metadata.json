@@ -1,0 +1,5 @@
+{
+  "name": "Kaanha Library Fee Management",
+  "description": "A full-stack library fee management system with manager and owner roles, transaction tracking, and analytics.",
+  "requestFramePermissions": []
+}
